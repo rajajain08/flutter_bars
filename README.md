@@ -3,7 +3,8 @@
 # Flutter Bars
 Widget to create bars according to list.
 
-![N|Solid](https://firebasestorage.googleapis.com/v0/b/drive-zero-16462.appspot.com/o/bars.gif?alt=media&token=dc400536-03aa-4d6a-91ad-e395c0672172)
+![title |medium](https://firebasestorage.googleapis.com/v0/b/drive-zero-16462.appspot.com/o/bars.gif?alt=media&token=dc400536-03aa-4d6a-91ad-e395c0672172)
+
 
 A new Flutter project.
 
